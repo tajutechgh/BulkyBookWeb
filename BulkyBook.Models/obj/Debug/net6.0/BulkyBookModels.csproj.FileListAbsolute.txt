@@ -1,0 +1,12 @@
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/bin/Debug/net6.0/BulkyBook.Models.deps.json
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/bin/Debug/net6.0/BulkyBook.Models.dll
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/bin/Debug/net6.0/BulkyBook.Models.pdb
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/BulkyBookModels.csproj.AssemblyReference.cache
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/BulkyBookModels.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/BulkyBookModels.AssemblyInfoInputs.cache
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/BulkyBookModels.AssemblyInfo.cs
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/BulkyBookModels.csproj.CoreCompileInputs.cache
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/BulkyBook.Models.dll
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/refint/BulkyBook.Models.dll
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/BulkyBook.Models.pdb
+/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/Debug/net6.0/ref/BulkyBook.Models.dll

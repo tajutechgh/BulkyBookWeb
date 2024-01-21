@@ -1,0 +1,80 @@
+{
+  "format": 1,
+  "restore": {
+    "/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/BulkyBook.Models.csproj": {}
+  },
+  "projects": {
+    "/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/BulkyBook.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/BulkyBook.Models.csproj",
+        "projectName": "BulkyBook.Models",
+        "projectPath": "/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/BulkyBook.Models.csproj",
+        "packagesPath": "/Users/mohammedabdul-aziz/.nuget/packages/",
+        "outputPath": "/Applications/Dev/c-sharp/BulkyBookWeb/BulkyBook.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mohammedabdul-aziz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
